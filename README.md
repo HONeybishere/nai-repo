@@ -1,2 +1,2 @@
 # nai-repo
-yeh meri nai rep hai
+yeh meri nai repo hai
